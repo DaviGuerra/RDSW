@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: RD Stat Weight
+## Author: Manaleaf-Sargeras
+## Version 1.0
+## SavedVariables: RDSW
+RDSW Init.lua
+RDSW GUI.lua
+RDSW Calc.lua
+RDSW EventHandler.lua
